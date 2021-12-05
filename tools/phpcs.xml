@@ -15,8 +15,8 @@
 	<rule ref="SlevomatCodingStandard.Files.TypeNameMatchesFileName">
 		<properties>
 			<property name="rootNamespaces" type="array">
-				<element key="src" value="TODO-name\space"/>
-				<element key="tests" value="Tests\TODO-name\space"/>
+				<element key="src" value="TODOname\space"/>
+				<element key="tests" value="Tests\TODOname\space"/>
 			</property>
 		</properties>
 	</rule>

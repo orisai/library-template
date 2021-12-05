@@ -1,15 +1,18 @@
-# TEMPLATE PACKAGE TODOs
-- rename `.github/TODO-workflows` to `.github/workflows`
+# Orisai Library Template
+
+Simple template for jump-starting standardized Orisai library development.
+
 - replace all TODOs in files
-  	- `TODO - Package` >>> e.g. `Object mapper`
-  	- `TODO - Description` >>> e.g. `This is object mapper description`
-  	- `TODO-vendor/package` >>> e.g. `orisai/object-mapper`
-  	- `TODO-name\space` >>> e.g. `Orisai\ObjectMapper`
-  	- `TODO-name\\space` >>> e.g. `Orisai\\ObjectMapper`
-  	- `TODO-keywords` >>> list of package keywords
+    - `TODO - Organization` >>> e.g. `Orisai`
+    - `TODO - Package` >>> e.g. `Object mapper`
+    - `TODO - Description` >>> e.g. `This is object mapper description`
+    - `todo-vendor/package` >>> e.g. `orisai/object-mapper`
+    - `TODOname\space` >>> e.g. `Orisai\ObjectMapper`
+    - `TODOname\\space` >>> e.g. `Orisai\\ObjectMapper`
+    - `TODO-keywords` >>> list of package keywords
 - remove this section
 
-<h1 align="center">Orisai TODO - Package</h1>
+<h1 align="center">TODO - Organization TODO - Package</h1>
 
 <p align="center">
     TODO - Description

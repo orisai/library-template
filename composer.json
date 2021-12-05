@@ -1,5 +1,5 @@
 {
-	"name": "TODO-vendor/package",
+	"name": "todo-vendor/package",
 	"description": "TODO - Description",
 	"keywords": [
 		"TODO-keywords"
@@ -31,12 +31,12 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"TODO-name\\space\\": "src"
+			"TODOname\\space\\": "src"
 		}
 	},
 	"autoload-dev": {
 		"psr-4": {
-			"Tests\\TODO-name\\space\\": "tests"
+			"Tests\\TODOname\\space\\": "tests"
 		}
 	},
 	"minimum-stability": "dev",
