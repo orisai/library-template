@@ -19,11 +19,11 @@ Simple template for jump-starting standardized Orisai library development.
 </p>
 
 <p align=center>
-  <a href="https://github.com/TODO-vendor/package/actions?query=workflow%3Aci"><img src="https://github.com/TODO-vendor/package/workflows/ci/badge.svg"></a>
-  <a href="https://coveralls.io/r/TODO-vendor/package"><img src="https://badgen.net/coveralls/c/github/TODO-vendor/package/v1.x?cache=300"></a>
-  <a href="https://dashboard.stryker-mutator.io/reports/github.com/TODO-vendor/package/v1.x"><img src="https://badge.stryker-mutator.io/github.com/TODO-vendor/package/v1.x"></a>
-  <a href="https://packagist.org/packages/TODO-vendor/package"><img src="https://badgen.net/packagist/dt/TODO-vendor/package?cache=3600"></a>
-  <a href="https://packagist.org/packages/TODO-vendor/package"><img src="https://badgen.net/packagist/v/TODO-vendor/package?cache=3600"></a>
+  <a href="https://github.com/todo-vendor/package/actions?query=workflow%3Aci"><img src="https://github.com/todo-vendor/package/workflows/ci/badge.svg"></a>
+  <a href="https://coveralls.io/r/todo-vendor/package"><img src="https://badgen.net/coveralls/c/github/todo-vendor/package/v1.x?cache=300"></a>
+  <a href="https://dashboard.stryker-mutator.io/reports/github.com/todo-vendor/package/v1.x"><img src="https://badge.stryker-mutator.io/github.com/todo-vendor/package/v1.x"></a>
+  <a href="https://packagist.org/packages/todo-vendor/package"><img src="https://badgen.net/packagist/dt/todo-vendor/package?cache=3600"></a>
+  <a href="https://packagist.org/packages/todo-vendor/package"><img src="https://badgen.net/packagist/v/todo-vendor/package?cache=3600"></a>
   <a href="https://choosealicense.com/licenses/mpl-2.0/"><img src="https://badgen.net/badge/license/MPL-2.0/blue?cache=3600"></a>
 <p>
 
