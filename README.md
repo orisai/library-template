@@ -58,6 +58,10 @@
 </p>
 
 <p align="center">
+	📄 Check out our <a href="docs/README.md">documentation</a>.
+</p>
+
+<p align="center">
 	<a href="https://github.com/todo-vendor/package/actions?query=workflow%3Aci">
 		<img src="https://github.com/todo-vendor/package/workflows/ci/badge.svg">
 	</a>
