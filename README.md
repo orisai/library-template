@@ -39,7 +39,12 @@
     - PHPStan - `make phpstan`
     - GitHub Actions - with PHPUnit, Infection, Coveralls.io, PHPStan, coding standard
 - Once you are ready for release
-    - Add little code example to bottom of this file :)
+	- Add little code example to bottom of this file :)
+	- Create a [GitHub](https://github.com) repo
+	- Go to [Coveralls](https://coveralls.io), login with your GitHub account and ensure repository is enabled
+	- Go to [Stryker Dashboard](https://dashboard.stryker-mutator.io), login with your GitHub account, enable repository
+	  and add the API key and save it in your repo GitHub repo secrets for action with name `STRYKER_DASHBOARD_API_KEY`
+	- Publish repo on [Packagist](https://packagist.org/)
 - **remove everything above this statement**
 
 <h1 align="center">
