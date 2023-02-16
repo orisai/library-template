@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/orisai/library-template/actions?query=workflow%3Aci">
-		<img src="https://github.com/orisai/library-template/workflows/ci/badge.svg">
+	<a href="https://github.com/orisai/library-template/actions?query=workflow%3ACI">
+		<img src="https://github.com/orisai/library-template/workflows/CI/badge.svg">
 	</a>
 	<a href="https://choosealicense.com/licenses/unlicense/">
 		<img src="https://badgen.net/badge/license/The%20Unlicense/blue?cache=3600">
@@ -62,8 +62,8 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/todo-vendor/package/actions?query=workflow%3Aci">
-		<img src="https://github.com/todo-vendor/package/workflows/ci/badge.svg">
+	<a href="https://github.com/todo-vendor/package/actions?query=workflow%3ACI">
+		<img src="https://github.com/todo-vendor/package/workflows/CI/badge.svg">
 	</a>
 	<a href="https://coveralls.io/r/todo-vendor/package">
 		<img src="https://badgen.net/coveralls/c/github/todo-vendor/package/v1.x?cache=300">
