@@ -13,12 +13,8 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/orisai/library-template/actions?query=workflow%3ACI">
-		<img src="https://github.com/orisai/library-template/workflows/CI/badge.svg">
-	</a>
-	<a href="https://choosealicense.com/licenses/unlicense/">
-		<img src="https://badgen.net/badge/license/The%20Unlicense/blue?cache=3600">
-	</a>
+	<a href="https://github.com/orisai/library-template/actions?query=workflow:CI+branch:v1.x"><img src="https://github.com/orisai/library-template/actions/workflows/ci.yaml/badge.svg?branch=v1.x"></a>
+	<a href="https://choosealicense.com/licenses/unlicense/"><img src="https://badgen.net/badge/license/The%20Unlicense/blue?cache=3600"></a>
 <p>
 
 ## Documentation - How to start with library template
@@ -62,24 +58,12 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/todo-vendor/package/actions?query=workflow%3ACI">
-		<img src="https://github.com/todo-vendor/package/workflows/CI/badge.svg">
-	</a>
-	<a href="https://coveralls.io/r/todo-vendor/package">
-		<img src="https://badgen.net/coveralls/c/github/todo-vendor/package/v1.x?cache=300">
-	</a>
-	<a href="https://dashboard.stryker-mutator.io/reports/github.com/todo-vendor/package/v1.x">
-		<img src="https://badge.stryker-mutator.io/github.com/todo-vendor/package/v1.x">
-	</a>
-	<a href="https://packagist.org/packages/todo-vendor/package">
-		<img src="https://badgen.net/packagist/dt/todo-vendor/package?cache=3600">
-	</a>
-	<a href="https://packagist.org/packages/todo-vendor/package">
-		<img src="https://badgen.net/packagist/v/todo-vendor/package?cache=3600">
-	</a>
-	<a href="https://choosealicense.com/licenses/mpl-2.0/">
-		<img src="https://badgen.net/badge/license/MPL-2.0/blue?cache=3600">
-	</a>
+	<a href="https://github.com/todo-vendor/package/actions?query=workflow:CI+branch:v1.x"><img src="https://github.com/todo-vendor/package/actions/workflows/ci.yaml/badge.svg?branch=v1.x"></a>
+	<a href="https://coveralls.io/github/todo-vendor/package?branch=v1.x"><img src="https://badgen.net/coveralls/c/github/todo-vendor/package/v1.x?cache=300"></a>
+	<a href="https://dashboard.stryker-mutator.io/reports/github.com/todo-vendor/package/v1.x"><img src="https://img.shields.io/endpoint?style=flat&url=https://badge-api.stryker-mutator.io/github.com/todo-vendor/package/v1.x"></a>
+	<a href="https://packagist.org/packages/todo-vendor/package"><img src="https://badgen.net/packagist/dt/todo-vendor/package?cache=3600"></a>
+	<a href="https://packagist.org/packages/todo-vendor/package"><img src="https://badgen.net/packagist/v/todo-vendor/package?cache=3600"></a>
+	<a href="https://choosealicense.com/licenses/mpl-2.0/"><img src="https://badgen.net/badge/license/MPL-2.0/blue?cache=3600"></a>
 <p>
 
 ##
